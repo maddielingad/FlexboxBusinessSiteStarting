@@ -4,7 +4,7 @@
 In this Codecademy project, I was tasked to utilize flexbox to design and build the layout for a company’s homepage - either an existing company or a fictional one.
 
 ## Description
-I chose to create a fictional art gallery company called Moonimo (named after my two cats Mooni and Mochi). While browsing Google for inspiration, I discovered [Mooni](https://moonigallery.com/)--an actual art gallery with its own homepage. Following the guidelines of this project, I took most of my design inspiration from Mooni's website to create my own simplified version of their homepage while using flexbox. 
+I chose to create a fictional art gallery company called Moonimo (named after my two cats Mooni and Mochi). While browsing Google for inspiration, I discovered [Mooni](https://moonigallery.com/) - an actual art gallery with its own homepage. Following the guidelines of this project, I took most of my design inspiration from Mooni's website to create my own simplified version of their homepage while using flexbox. 
 
 ## Project Requirements
 1. A title and logo or splash image.

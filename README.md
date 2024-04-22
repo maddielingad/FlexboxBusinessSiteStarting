@@ -14,6 +14,5 @@ I chose to create a fictional art gallery company called Moonimo (named after my
 5. Flexbox styling for layout.
 6. Custom styles for other properties, such as colors, fonts, and other layout properties such as borders and padding.
 
-![image](https://github.com/maddielingad/FlexboxBusinessSiteStarting/assets/96184579/d74215dc-d1df-4211-9435-b6e678811652)
-![image](https://github.com/maddielingad/FlexboxBusinessSiteStarting/assets/96184579/f3ed2001-0118-4eb3-93ed-21b47fac1311)
-![image](https://github.com/maddielingad/FlexboxBusinessSiteStarting/assets/96184579/988de30e-75e9-4ece-bb82-090a2bdb2b44)
+### Desktop View
+![Moonimo Desktop](https://github.com/maddielingad/FlexboxBusinessSiteStarting/assets/96184579/6d97962f-eab5-401d-8852-3c183a9ca60d)
